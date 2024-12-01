@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931101557733",
+    "project_id": "fitweatherapp",
+    "storage_bucket": "fitweatherapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931101557733:android:811e67c3e80e21b21ee50c",
+        "android_client_info": {
+          "package_name": "com.cumaliguzel.fitweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBKNfwdDQ66cYCf7VT31VYEa2Id_sjYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
